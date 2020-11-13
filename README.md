@@ -12,9 +12,10 @@
 - ⚡ Fun fact: I'm brown
 -->
 
-https://twitter.com/ji5hnu
+
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
-<p align='center'>For enquiries on <a href="https://twitter.com/ji5hnu">Twitter</a>.</p>
+<p align='center'>For enquiries say hi,<a href="https://twitter.com/ji5hnu">Twitter</a> or <a href="www.linkedin.com/in/jishnu-jayaraj-9299b7b5">LinkedIn</a>.</p>
 
 <h1 align='center'><i>Stay awesome!</i></h1>
