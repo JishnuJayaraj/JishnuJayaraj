@@ -1,10 +1,6 @@
 ![Copy of Nature Welcome Church Template - Made with PosterMyWall](https://user-images.githubusercontent.com/46840482/99074474-17e49a80-25b8-11eb-8702-b33ca12289ae.jpg)
 
 
-### Hi there 👋
-
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on NLP nad transformer models
 - 🌱 I’m currently learning being profocient with machine learning
