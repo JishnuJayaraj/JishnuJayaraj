@@ -1,6 +1,7 @@
-![Copy of Nature Welcome Church Template - Made with PosterMyWall](https://user-images.githubusercontent.com/46840482/99074474-17e49a80-25b8-11eb-8702-b33ca12289ae.jpg)
-
+![](images/HelloJishnu.jpg)
 <h1 align='center'> Hi! :wave:</h1>
+
+[comment]: <> (This is a comment, it will not be included)
 
 - 🔭 I’m currently working on NLP nad transformer models
 - 🌱 I’m currently learning being profocient with machine learning
