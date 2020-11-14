@@ -2,6 +2,7 @@
 <h1 align='center'> Hi! :wave:</h1>
 
 [comment]: <> (This is a comment, it will not be included)
+[comment]: <> ('<img src="images/HelloJishnu.jpg" width='40'> )
 
 - 🔭 I’m currently working on NLP nad transformer models
 - 🌱 I’m currently learning being profocient with machine learning
