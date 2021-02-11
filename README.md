@@ -4,7 +4,9 @@
 [comment]: <> (This is a comment, it will not be included)
 [comment]: <> ('<img src="images/HelloJishnu.jpg" width='40'> )
 
-- 🔭 I’m currently working on NLP nad transformer models
+## Check out my webpage at <a href="https://jishnujayaraj.netlify.app">https://jishnujayaraj.netlify.app</a>
+
+- 🔭 I’m currently working on NLP with transformer models
 - 🌱 I’m currently learning being profocient with machine learning
 - 👯 I’m looking to collaborate on open projects
 - 🤔 I’m looking for help with Knowledge graph 
@@ -15,7 +17,6 @@
 -->
 
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
 <p align='center'>For enquiries say hi,<a href="https://twitter.com/ji5hnu">Twitter</a> or <a href="www.linkedin.com/in/jishnu-jayaraj-9299b7b5">LinkedIn</a>.</p>
