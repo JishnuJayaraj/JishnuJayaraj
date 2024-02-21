@@ -1,6 +1,8 @@
 ![](images/HelloJishnu.jpg)
 <h1 align='center'> Hi! :wave:</h1>
 
+<a href="https://app.daily.dev/jjj"><img src="https://api.daily.dev/devcards/v2/VpK9Uc3ElDVB9bjYvLDj2.png?r=ksq&type=wide" width="652" alt="jishnu's Dev Card"/></a>
+
 [comment]: <> (This is a comment, it will not be included)
 [comment]: <> ('<img src="images/HelloJishnu.jpg" width='40'> )
 
