@@ -28,7 +28,9 @@ Machine Learning Engineer who translates caffeine into code and teaches computer
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
 
 
 ### 😂 Random Dev Meme
