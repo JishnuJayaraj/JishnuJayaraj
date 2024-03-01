@@ -1,12 +1,6 @@
 ![](images/HelloJishnu.jpg)
 <h1 align='center'> Hi! :wave:</h1>
 
-<a href="https://app.daily.dev/jjj"><img src="https://api.daily.dev/devcards/v2/VpK9Uc3ElDVB9bjYvLDj2.png?r=ksq&type=wide" width="652" alt="jishnu's Dev Card"/></a>
-
-[comment]: <> (This is a comment, it will not be included)
-[comment]: <> ('<img src="images/HelloJishnu.jpg" width='40'> )
-
-
 [![](https://visitcount.itsvg.in/api?id=JishnuJayaraj&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
@@ -33,15 +27,14 @@ Innovative ML applications
 
 
 ### ✍️ Random Dev Quote
+<center>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+</center>
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-<div style="display: flex; justify-content: center;">
+<center>
     <img src='https://randommeme-five.vercel.app/' style="height: 400px;" alt="Random Meme">
-</div>
+</center>
 
 
 # 💻 Tech Stack:
