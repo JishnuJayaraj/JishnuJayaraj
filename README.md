@@ -7,7 +7,7 @@
 
 Machine Learning Engineer who translates caffeine into code and teaches computers to dream. "Been tangling with code since 2018, juggling numbers, wrestling fluid simulations, and sweet-talking machines into solving problems they didn't even know they had!"
 
-# 🔧 Technologies & Tools
+## 🔧 Technologies & Tools
 
 - **Languages**: Python, R, C++
 - **Libraries/Frameworks**: PyTorch, Scikit-Learn, Pandas, NumPy, Huggingface, Scrapy
@@ -15,15 +15,17 @@ Machine Learning Engineer who translates caffeine into code and teaches computer
 - **Databases**: MySQL, Neo4j, MongoDB, Elastic Search
 - **Others**: Data Visualization, Machine Learning Model Deployment, API Development, MLOps
 
-# 🌱 I’m currently learning
+## 🌱 I’m currently learning
 - Advanced techniques in LLM quantization
 - Cloud Services for ML Deployment (e.g., AWS SageMaker, Azure ML)
 - Big Data Technologies (e.g., Apache Spark, Hadoop)
 
-# 👯 I’m looking to collaborate on
+## 👯 I’m looking to collaborate on
 - Open Source Machine Learning Projects
 - Research Projects in LLM and AGI
 - Innovative ML applications
+
+---
 
 
 ### ✍️ Random Dev Quote
