@@ -15,26 +15,26 @@ Machine Learning Engineer who translates caffeine into code and teaches computer
 - **Databases**: MySQL, Neo4j, MongoDB, Elastic Search
 - **Others**: Data Visualization, Machine Learning Model Deployment, API Development, MLOps
 
-🌱 I’m currently learning
+# 🌱 I’m currently learning
 - Advanced techniques in LLM quantization
 - Cloud Services for ML Deployment (e.g., AWS SageMaker, Azure ML)
 - Big Data Technologies (e.g., Apache Spark, Hadoop)
 
-👯 I’m looking to collaborate on
+# 👯 I’m looking to collaborate on
 - Open Source Machine Learning Projects
 - Research Projects in LLM and AGI
 - Innovative ML applications
 
 
 ### ✍️ Random Dev Quote
-<p align="center">
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</p>
+
 
 ### 😂 Random Dev Meme
-<center>
+<p align="center">
     <img src='https://randommeme-five.vercel.app/' style="height: 400px;" alt="Random Meme">
-</center>
+</p>
 
 
 # 💻 Tech Stack:
